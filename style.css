@@ -10,4 +10,10 @@ h1{
 mark{
     background-color: #78ad69;
     color: #fff;
+    border-radius: 5px;
+}
+
+img{
+    border: 3px solid #78ad69;
+    border-radius: 10px;
 }
