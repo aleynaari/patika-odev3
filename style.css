@@ -1,0 +1,12 @@
+body{
+    background-color: #ffffff;
+}
+
+h1{
+    color: rgb(150, 108, 46);
+}
+
+mark{
+    background-color: rgb(150, 108, 46);
+    color: #fff;
+}
