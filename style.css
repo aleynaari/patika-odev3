@@ -1,12 +1,13 @@
 body{
-    background-color: #ffffff;
+    background-color: #FEFFDE;
 }
 
 h1{
-    color: rgb(150, 108, 46);
+    color: #78ad69;
+    font-style: italic;
 }
 
 mark{
-    background-color: rgb(150, 108, 46);
+    background-color: #78ad69;
     color: #fff;
 }
